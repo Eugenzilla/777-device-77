@@ -1,3 +1,3 @@
 # Личный проект «Девайс»
 
-* Студент: Eugenzilla
+* Автор: EugenzillaTests
